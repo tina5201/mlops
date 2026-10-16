@@ -21,3 +21,6 @@ env/
 # Logs
 *.log
 *.pem
+house-price-api.tar
+
+/index.html
